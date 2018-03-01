@@ -1,0 +1,24 @@
+{
+  "name": "semark",
+  "version": "0.9.0",
+  "description": "A simple markdown editor for semantic-ui .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Badr Haimeur <badr@haimeur.com> (http://www.haimeur.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.8.2",
+    "gulp": "^3.9.1",
+    "gulp-ext": "^1.0.0",
+    "gulp-file-include": "^2.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglifycss": "^1.0.9"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "markdown-it": "^8.4.1"
+  }
+}
